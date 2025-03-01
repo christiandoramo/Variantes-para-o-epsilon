@@ -277,7 +277,7 @@ def train_sarsa_decay_2_linear(ambient, trial: optuna.Trial):
 
 Aqui foi usado os mesmos paramêtros usados nas outras funções mas agora o SARSA rodou 20vezes no ambiente Taxi para o epsilon fixo, com decaimento linear e exponencial.
 
-![image.png](eec64fc5-175f-498f-a1cf-19501b24a43b.png)
+![image.png](./Images/eec64fc5-175f-498f-a1cf-19501b24a43b.png)
 
 Aqui foi usado os hiperparametros para o linear e para o exponencial (apenas mudou as taxas de decaimento), rodou 20 vezes para cada algoritmo, uma pequena mudança percentual, diferentemente de quanto mudamos o X como vimos anteriormente.
 
@@ -297,5 +297,3 @@ Neste artigo, exploramos como estratégias de decaimento do epsilon e epsilon ad
 - **Epsilon Adaptativo** é ideal para ambientes onde o desempenho do agente varia ao longo do tempo.
 
 Como trabalhos futuros, sugerimos explorar outras estratégias de decaimento e aplicar essas técnicas em ambientes mais complexos, como jogos ou robótica.
-
-# lembrar de colocar as referências
