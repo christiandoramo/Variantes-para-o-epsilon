@@ -6,7 +6,7 @@
 
 Vídeo
 
-[https://www.youtube.com/watch?v=rmEmAiH0nOQ](https://www.youtube.com/watch?v=rmEmAiH0nOQ)
+[![Assista no YouTube](https://img.youtube.com/vi/rmEmAiH0nOQ/0.jpg)](https://www.youtube.com/watch?v=rmEmAiH0nOQ)
 
 ### **Introdução**
 
